@@ -1,2 +1,11 @@
 #Week7GitBasicS 
-"The the repository is for practice Git" 
+
+## Description
+the repository is for practicing Git basic
+
+## Files
+- app.py
+README.md
+
+## Author
+- coralfab
