@@ -9,3 +9,6 @@ README.md
 
 ## Author
 - coralfab
+
+## EDIT
+- Made a small edit according to LA21 committed and pushed
